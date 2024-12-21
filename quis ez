@@ -1,13 +1,13 @@
 [
     {
-        "index": 0,
-        "soal": "What do you call someone who treats sick people?",
-        "jawaban": "Doctor"
+      "index": 0,
+      "soal": "What do you call someone who treats sick people?",
+      "jawaban": "Doctor"
     },
     {
-        "index": 1,
-        "soal": "A person who designs buildings is called a...",
-        "jawaban": "Architect"
+       "index": 1,
+       "soal": "A person who designs buildings is called a...",
+       "jawaban": "Architect"
     },
     {
         "index": 2,
