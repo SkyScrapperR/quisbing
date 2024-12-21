@@ -69,8 +69,7 @@
     {
         "index": 15,
         "soal": "A dentist is a person who takes care of animals. true or false?",
-        "jawaban": "False"
-    },
+        "jawaban": "False"},
     {
         "index": 16,
         "soal": "A librarian works in a library. true or false?",
@@ -89,6 +88,5 @@
     {
         "index": 19,
         "soal": "A musician is someone who plays or creates music. true or false?",
-        "jawaban": "True"
-    }
+        "jawaban": "True"}
 ]
