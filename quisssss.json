@@ -1,92 +1,72 @@
 [
     {
-      "index": 0,
       "soal": "What do you call someone who treats sick people?",
       "jawaban": "Doctor"},
      {
-       "index": 1,
        "soal": "A person who designs buildings is called a...",
        "jawaban": "Architect"},
     {
-      "index": 2,
       "soal": "Who takes care of animals in a clinic...?",
       "jawaban": "Veterinarian"},
     {
-      "index": 3,
       "soal": "A person who cooks food in a restaurant is a...",
       "jawaban": "Chef"},
     {
-        "index": 4,
         "soal": "Who helps students learn in school…",
         "jawaban": "Teacher"
     },
     {
-        "index": 5,
         "soal": "What is the job of someone who flies an airplane?",
         "jawaban": "Pilot"},
     {
-        "index": 6,
         "soal": "A person who builds houses is called a...",
         "jawaban": "Carpenter"
     },
     {
-        "index": 7,
         "soal": "Who is responsible for putting out fires?",
         "jawaban": "Firefighter"},
     {
-        "index": 8,
         "soal": "Someone who delivers letters is called a...",
         "jawaban": "Mailman"
     },
     {
-        "index": 9,
         "soal": "What do you call a person who sells goods in a shop?",
         "jawaban": "Shopkeeper"}, 
     {
-        "index": 10,
         "soal": "What is the profession of someone who writes news articles",
         "jawaban": "Journalist"
     },
     {
-        "index": 11,
         "soal": "A person who takes care of patients in a hospital is called a?",
         "jawaban": "Nurse"
     },
     {
-        "index": 12,
         "soal": "Who repairs cars and other vehicles?",
         "jawaban": "Mechanic"},
     {
-        "index": 13,
         "soal": "Someone who grows crops and raises animals is a?",
         "jawaban": "Farmer"
     },
     {
-        "index": 14,
         "soal": "What do we call someone who designs clothes?",
         "jawaban": "Tailor"
     },
     {
-        "index": 15,
         "soal": "A dentist is a person who takes care of animals. true or false?",
         "jawaban": "False"},
     {
-        "index": 16,
         "soal": "A librarian works in a library. true or false?",
         "jawaban": "True"
     },
     {
-        "index": 17,
         "soal": "An engineer is someone who flies airplanes. true or false?",
         "jawaban": "False"
     },
     {
-        "index": 18,
         "soal": "A scientist studies and researches different topics. true or false?",
         "jawaban": "True"
     },
     {
-        "index": 19,
         "soal": "A musician is someone who plays or creates music. true or false?",
         "jawaban": "True"}
 ]
